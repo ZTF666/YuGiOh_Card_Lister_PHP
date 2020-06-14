@@ -1,15 +1,11 @@
-# YU GI OH | 遊 ☆ 戯 ☆ 王
+# YU GI OH CARD LISTER | 遊 戯 王
 
 <div align="center">
-<img src="imgs/logo.png" >
+<img src="../imgs/yugi.gif" >
 </div>
 
 A simple one page app that consumes the yugioh api and displays the details about the cards.
 The app uses the 'https://db.ygoprodeck.com/api-guide/' V5 api to fetch the data.
-
-<div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/katzfacts.appspot.com/o/yugi.gif?alt=media&token=15bfd4c6-64b9-497c-8afb-a272466da7f6" >
-</div>
 
 ## How does it work :
 
@@ -19,7 +15,7 @@ This can be changed in the code to which ever card you want or tinker and diasbl
 ```
 
 <div align="center">
-<img src="imgs/default.png" >
+<img src="../imgs/default.png" >
 </div>
 
 ## Card Detail
@@ -29,7 +25,7 @@ Click on **More Detail** to display the flavour text of the card .
 ```
 
 <div align="center">
-<img src="imgs/imgs/3.png" >
+<img src="../imgs/3.png" >
 </div>
 
 ## Tips
@@ -61,7 +57,7 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 ## License
 
-**💎YU GI OH | 遊 ☆ 戯 ☆ 王 💎** released under the [MIT](LICENSE) License.
+**💎YU GI OH CARD LISTER | 遊 戯 王 💎** released under the [MIT](LICENSE) License.
 <br><br>
 
 <div align="center">
