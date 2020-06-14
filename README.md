@@ -61,7 +61,9 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 ## License
 
 <div align="center">
+
 **💎YU GI OH CARD LISTER | 遊 戯 王 💎** released under the [MIT](LICENSE) License.
+
 <br><br>
 
 <strong><p>Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666 - N.EA</p> </strong>
