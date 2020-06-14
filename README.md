@@ -5,7 +5,7 @@
 </div>
 
 A simple one page app that consumes the yugioh api and displays the details about the cards.
-The app uses the 'https://db.ygoprodeck.com/api-guide/' V5 api to fetch the data.
+The app uses the [YGO PRO DECK](https://db.ygoprodeck.com/api-guide/) ' V5 api to fetch the data.
 
 <div align="center">
 <img src="/imgs/logox.png" >
