@@ -28,7 +28,7 @@ ini_set('display_errors', 1);
     <div class="inner">
       <form method="post" action="">
 
-        <img src="../imgs/logo.png" class="logo">
+        <img src="../imgs/logox.png" class="logo">
         <input type="text" name="CARD" required placeholder="Card name or ID ">
       </form>
     </div>
